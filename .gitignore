@@ -1,0 +1,7 @@
+threading.iml
+threading.ipr
+threading.iws
+.gradle
+gradle
+build
+atlassian-ide-plugin.xml
